@@ -8,8 +8,8 @@ const GitHubStrategy = require('passport-github2').Strategy;
 
 // --- IMPORTANT ---
 // In a real app, use environment variables for these.
-const GITHUB_CLIENT_ID = 'Ov23lixS7FCBAFjoXS3p';
-const GITHUB_CLIENT_SECRET = 'fcbd02f943e7586b7ca1fd64ccd2edaaaf2899a8';
+const GITHUB_CLIENT_ID = 'Enter your GitHub Client ID here';
+const GITHUB_CLIENT_SECRET = 'Enter your GitHub Client Secret here';
 
 // 2. Setup Express App
 const app = express();
